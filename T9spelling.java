@@ -1,5 +1,3 @@
-// Xing Da
-// A0177380Y
 import java.io.*;
 import java.util.*;
 
