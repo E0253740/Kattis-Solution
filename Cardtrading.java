@@ -1,5 +1,3 @@
-// Xing Da
-// A0177380Y
 // need to consider all the cases
 import java.util.*;
 import java.io.*;
